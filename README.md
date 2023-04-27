@@ -1,5 +1,7 @@
 # UpResAI
 
+You can find all files here - https://bit.ly/3LyH4q2
+
 NVIDIA NGX Implementation to C++ Console Application
 
 You will need NGX SDK and CUDA 12.x installed on your PC, Visual Studio 2017/2019 with Platform Toolset v141.
