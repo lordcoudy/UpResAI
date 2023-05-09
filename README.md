@@ -1,6 +1,6 @@
 # UpResAI
 
-You can find all files here - https://bit.ly/3LyH4q2
+You can find all files here - https://disk.yandex.ru/d/EeIbp3JPcjEx2Q
 
 NVIDIA NGX Implementation to C++ Console Application
 
